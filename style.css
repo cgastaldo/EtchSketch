@@ -1,0 +1,13 @@
+
+
+.rows {
+    display:flex;
+    flex:1;
+}
+
+.columns {
+    height: 40px;
+    width: 40px;
+    margin: 1px;
+    background-color: black;
+}
