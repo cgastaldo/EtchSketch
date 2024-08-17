@@ -1,7 +1,7 @@
-
-
-.rows {
+#grid {
     display:flex;
-    flex:1;
+    flex-wrap: wrap;
+    width: 600px;
+    height: 600px;
 }
 
